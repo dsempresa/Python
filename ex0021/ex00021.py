@@ -2,5 +2,5 @@
 
 import pygame
 pygame.mixer.init()
-pygame.mixer.music.load('/mp3/musica.mp3')
-pygame.mixer_music.play()
+pygame.mixer.music.load()
+pygame.mixer_music.play('/ex0021/musica.mp3')
