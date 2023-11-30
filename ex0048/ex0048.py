@@ -1,0 +1,1 @@
+# Faça um programa que calcule a soma entre todos os números ímparesque são multiplos de tres e que se encontram no intervalo de até 500.
