@@ -1,0 +1,2 @@
+#Crie um programa que simule o funcionamento de um caixa eletronico. No inicio,pergunte ao usuario qual será o valor a ser sacado(numero inteiro) e o programa vai informar quantas cedulas de cada valor serão entregues.
+#OBS: CONSIDERE QUE O CAIXA POSSUI CEDULAS DE R$50,00 , R$20,00 , R$10,00 , R$1,00.
