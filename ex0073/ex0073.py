@@ -12,3 +12,8 @@
 # B- Os ultimos 4 colocados
 # C- Uma lista com times em ordem alfabética
 # D- Em que posição na tabela está o time do Fortaleza.
+
+listaDeTimes = ('Palmeiras', 'Gremio', 'Atletico mg', 'Flamengo', 'Botafogo',
+                'Bragantino', 'Fluminense', 'Atletico PR', 'Internacional',
+                'Fortaleza', 'Sao paulo', 'Cuiaba', 'Corinthians', 'Cruzeiro',
+                'Vasco', 'Bahia', 'Santos', 'Goias', 'Coritiba', 'America')
