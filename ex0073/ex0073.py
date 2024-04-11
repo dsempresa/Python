@@ -17,3 +17,14 @@ listaDeTimes = ('Palmeiras', 'Gremio', 'Atletico mg', 'Flamengo', 'Botafogo',
                 'Bragantino', 'Fluminense', 'Atletico PR', 'Internacional',
                 'Fortaleza', 'Sao paulo', 'Cuiaba', 'Corinthians', 'Cruzeiro',
                 'Vasco', 'Bahia', 'Santos', 'Goias', 'Coritiba', 'America')
+# print('lista de times', {listaDeTimes})
+for time in listaDeTimes:
+    print(time)
+print('-=' * 10)
+print(f'Os 5 primeiros são {listaDeTimes[0:5]}')
+print('-=' * 10)
+print(f'Os 4 ultimos são {listaDeTimes[-4:]}')
+print('-=' * 10)
+print(f'Times em ordem alfabetica: {sorted(listaDeTimes)}')
+print('-=' * 10)
+print(f'O Fortaleza está na {listaDeTimes.index("Fortaleza")+1}ª posição')
